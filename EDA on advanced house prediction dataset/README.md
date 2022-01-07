@@ -1,0 +1,1 @@
+This project uses the kaggle advanced house prediction datatset and performs step by step EDA nd Feature Engineering on it . This is a must for beginners as it helps you to go though all the important steps which can be applied on any other dataset
